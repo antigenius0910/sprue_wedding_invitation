@@ -1,6 +1,6 @@
 &nbsp;
 ## Summary
-Our Sprue Wedding Invitation
+Our 3D printed Sprue Wedding Invitation
 
 [Preset Views and Model inspector](https://sketchfab.com/3d-models/sprue-wedding-invitation-6b04470df3c54dbda952a8d498b50d8e)
 
